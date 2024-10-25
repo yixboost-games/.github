@@ -1,3 +1,6 @@
+![channels4_banner](https://github.com/user-attachments/assets/79ed272b-0eca-4828-8f28-fa59d98e66af)
+
+
 # Yixboost Games
 
 [![Discord](https://img.shields.io/discord/your-discord-id.svg?logo=discord&style=flat-square)](https://discord.gg/your-discord-invite) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC3P827DIzznzv2OP6NdjF7g?style=social)](https://www.youtube.com/channel/UC3P827DIzznzv2OP6NdjF7g)
