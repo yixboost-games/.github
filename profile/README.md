@@ -14,3 +14,5 @@ For questions or comments, please reach out via email: [yixboost@mail.com](mailt
 ## About
 
 Yixboost Games develops and manages a variety of fun and exciting games. We strive to provide a great gaming experience for players of all ages.
+
+https://yixboost-games.github.io/
